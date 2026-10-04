@@ -1,0 +1,4 @@
+{ "name": "agentweather-examples", "private": true, "type": "module",
+  "scripts": { "buy": "tsx examples/buyer-t54.ts" },
+  "dependencies": { "x402-xrpl": "0.3.3", "xrpl": "^5.3.0" },
+  "devDependencies": { "tsx": "^4.23.15" } }
