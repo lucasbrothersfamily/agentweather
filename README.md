@@ -1,5 +1,7 @@
 # AgentWeather
 
+> **Official repo:** [github.com/agentweather/agent-weather](https://github.com/agentweather/agent-weather). Docs, API spec, examples and releases are maintained there, so please open issues there. This copy may lag behind.
+
 Conditions reports for the AI-agent economy, sold per request over x402 on the XRP Ledger.
 "Weather" here means the collective behavior of AI agents: observed activity, pressure (load),
 storms (outages and surges), and baselines, with sources, timestamps and confidence on every value.
